@@ -34,7 +34,11 @@ Este repositorio contiene la versión completa del sistema, incluyendo todos los
 
 ## 🤝 Contribuciones
  ---
-
+Este es un proyecto personal en desarrollo continuo. Cualquier mejora, corrección o sugerencia es bienvenida. Si deseas contribuir:
+ 1. **Realiza un Fork** del repositorio
+ 2. Crea una rama con tu mejora:
+    ```bash
+    git checkout -b mejora/nueva-funcion
 ## 💝 Apoya este proyecto
 
 Si este trabajo te ha sido útil, puedes apoyarme con una donación:
@@ -49,4 +53,5 @@ Este es un proyecto personal en desarrollo continuo. Cualquier mejora, correcci�
 2. Crea una rama con tu mejora:
    ```bash
    git checkout -b mejora/nueva-funcion
+
    
