@@ -1,0 +1,26 @@
+[2026-11-15 16:30:20] ✅ INICIO DE SESIÓN EXITOSO — Usuario: segury — IP: 127.0.0.1
+[2026-11-15 16:30:30] Consultó información del sistema — 127.0.0.1
+[2026-11-15 16:30:38] Consultó hora — 127.0.0.1
+[2026-11-15 16:30:43] Revisó registros del sistema — 127.0.0.1
+[2026-11-15 16:30:54] Revisó memoria — 127.0.0.1
+[2026-11-15 16:31:01] Revisó espacio en disco — 127.0.0.1
+[2026-11-15 22:46:15] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:46:19] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:46:21] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:46:23] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:46:37] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:46:39] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:46:41] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:46:46] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:46:48] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:50:12] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:50:14] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:50:16] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:50:17] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-15 22:52:05] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-19 16:34:27] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-19 16:37:19] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-19 16:38:49] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-19 16:39:14] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-19 16:41:51] ✅ INGRESO: segury desde 127.0.0.1
+[2026-11-19 16:45:06] ✅ INGRESO: segury desde 127.0.0.1

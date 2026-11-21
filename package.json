@@ -1,0 +1,13 @@
+{
+  "name": "segury-filecloud",
+  "version": "4.0.0",
+  "description": "Segury Systems Core — FileCloud Edition",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mqtt": "^5.16.1"
+  }
+}

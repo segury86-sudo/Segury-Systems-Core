@@ -1,0 +1,12 @@
+{
+  "segury": {
+    "password": "a0200e69e3acba1d6819d16fef7d7ba5:a964e0c1c285a291da9bb035a5c8ab54988aff6fece0c8febaa6aea3619ae3e3",
+    "rol": "administrador",
+    "nombre": "Profesor S"
+  },
+  "kellynanaki": {
+    "password": "9f0a0cdfd5c2c2a9e4efa9b3a7a72029:54e3df131a309b0b7e89cecfbdc36ac757698bfc59dce0132d0b0ccda8314863",
+    "rol": "usuario",
+    "nombre": "Comandante Kellynanaki"
+  }
+}
