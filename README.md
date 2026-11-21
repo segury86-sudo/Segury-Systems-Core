@@ -33,10 +33,20 @@ Este repositorio contiene la versión completa del sistema, incluyendo todos los
 ---
 
 ## 🤝 Contribuciones
- 
+ ---
+
+## 💝 Apoya este proyecto
+
+Si este trabajo te ha sido útil, puedes apoyarme con una donación:
+
+💙 **PayPal:** [paypal.me/SegurySystems](https://paypal.me/SegurySystems)
+
+> *"No es obligatorio, pero tu apoyo me motiva a seguir creando. ¡Gracias de corazón! ❤️"*
+> 
 Este es un proyecto personal en desarrollo continuo. Cualquier mejora, corrección o sugerencia es bienvenida. Si deseas contribuir:
  
 1. **Realiza un Fork** del repositorio
 2. Crea una rama con tu mejora:
    ```bash
    git checkout -b mejora/nueva-funcion
+   
